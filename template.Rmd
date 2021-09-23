@@ -1,0 +1,13 @@
+---
+title: "Simple document"
+output: html_document
+---
+
+I'm an R Markdown document! 
+
+# Section 1
+
+```{r}
+library(tidyverse)
+```
+
